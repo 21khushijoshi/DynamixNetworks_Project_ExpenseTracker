@@ -17,7 +17,7 @@ User-friendly UI: Modern-looking interface with colored headers, styled buttons,
 
 Java SE (with java.time.LocalDate)
 Swing for GUI components (JFrame, JTable, JComboBox, JFileChooser, etc.)
-No external libraries or databases — fully standalone
+No external libraries or databases 
 
 # How to Run
 
